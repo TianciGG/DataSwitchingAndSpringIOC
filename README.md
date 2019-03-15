@@ -1,3 +1,4 @@
 # DataSwitchingAndSpringIOC该项目为数据交换格式与SpringIOC底层的相关实现的代码
 JsonAnalysis.java、JsonAssemble.java为简单使用阿里的fastjson进行json字符串的解析和json字符串的组装
-
+XmlAnalysis.java为使用dom4j解析xml。
+ReflexMechanismApplication.java为使用反射机制，调用类的无参、有参构造方法创建对象,使用反射获取该类的所有属性、方法(包含父类与不包含父类),使用反射机制访问不同包下类的私有成员变量

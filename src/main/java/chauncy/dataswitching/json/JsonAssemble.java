@@ -1,4 +1,4 @@
-package chauncy.dataswitching;
+package chauncy.dataswitching.json;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;

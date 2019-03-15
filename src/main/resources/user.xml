@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+    <user1 id="01">
+        <名字>小红</名字>
+        <性别>女</性别>
+    </user1>
+    <user2 id="02">
+        <名字>小黑</名字>
+        <性别>男</性别>
+    </user2>
+</user>  
